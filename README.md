@@ -14,19 +14,10 @@ const CrazyFlutterDev = {
     location: ["Dindoli, Surat"],
     contact: ["sapkalecheta018@gmail.com"],
     collaborations: ["Red & White Multimedia", "Self Learner"],
-    workingOn: ["Full-Stack Development"],
-    learning: ["HTML", "CSS", "BOOTSTARP", "Javascript", "React.js" , "Node.js" , "Express" , "Mongodb"],
-    askMeAbout: ["My Learnings", "Frontend Development", "Full-Stack Development"],
-    hobbies: {
-        major: {
-            indoor: ["Mobiles", "Cooking", "watching YouTube", "Gaming", "Discord"],
-outdoor: ["Traveling", "Alone Riding"],
-        },
-funFact: {
-            secret: ["I am Not a Funny Person!!"],
-        }        
-    }
-   passionate: ["A passionate Full-Stack Developer from India"]
+    workingOn: ["Frontend Development"],
+    learning: ["HTML", "CSS", "BOOTSTARP", "Javascript", "React.js"],
+    askMeAbout: ["My Learnings", "Frontend Development"],
+    passionate: ["A passionate Frontend Developer from India"]
 };
 ```
 
@@ -34,8 +25,8 @@ funFact: {
 
 <p align="center">
 <a href="https://github.com/ChetanSapkale"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="[https://www.linkedin.com/in/nwaobidaniel/]([https://www.linkedin.com/in/mehul-kurhe-b55390296/]"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://instagram.com/adityaj0511"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="GitHub"/></a>
+<a href="[https://www.linkedin.com/in/chetan-sapkale-20b7362b1/]([https://www.linkedin.com/in/mehul-kurhe-b55390296/]"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/ft.chetannn_/?next=%2F&hl=en"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="GitHub"/></a>
 <!--   <a href="https://discordapp.com/users/822812589624393749"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a> -->
 </p>
 
@@ -49,7 +40,7 @@ funFact: {
 <!--     <img src="https://skillicons.dev/icons?i=aiscript,androidstudio,aws,c,cpp,cmake,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=discord,python,bots,flutter,gcp,firebase,kotlin,linkedin,java,visualstudio,twitter" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" /> -->
-    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react,nodejs,express,mangodb," />
+    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react" />
 </div>
 
 <br/>
