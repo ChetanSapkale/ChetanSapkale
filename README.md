@@ -53,15 +53,15 @@ const CrazyFlutterDev = {
 <br>
 
 <div align=center>
-  <img width=390 height=162.84 src="https://github-readme-stats.vercel.app/api?username=adityaj0511&theme=algolia&show_icons=true&rank_icon=github&border_radius=20&count_private=true" alt="streak stats"/>
-<img width=390 height=162.84 src="https://github-readme-streak-stats.herokuapp.com/?user=adityaj0511&theme=algolia&border_radius=20" alt="readme stats"/>
+  <img width=390 height=162.84 src="https://github-readme-stats.vercel.app/api?username=ChetanSapkale&theme=algolia&show_icons=true&rank_icon=github&border_radius=20&count_private=true" alt="streak stats"/>
+<img width=390 height=162.84 src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanSapkale&theme=algolia&border_radius=20" alt="readme stats"/>
   <br/>
 
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaj0511&layout=donut-vertical&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/>
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanSapkale&layout=donut-vertical&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/>
 </div>
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityaj0511&label=Profile%20views&color=0e75b6&style=flat" alt="adityaj0511" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ChetanSapkale&label=Profile%20views&color=0e75b6&style=flat" alt="ChetanSapkale" /> </p>
 
 <hr/>
