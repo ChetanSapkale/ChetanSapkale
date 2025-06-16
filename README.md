@@ -9,10 +9,10 @@
 
 ```javascript
 const CrazyFlutterDev = {
-    name: "Aditya Jagdev",
+    name: "Chetan Sapkale",
     pronouns: "he" | "him",
     location: ["Dindoli, Surat"],
-    contact: ["adityajagdev0511@gmail.com"],
+    contact: ["sapkalecheta018@gmail.com"],
     collaborations: ["Red & White Multimedia", "Self Learner"],
     workingOn: ["Full-Stack Development"],
     learning: ["HTML", "CSS", "BOOTSTARP", "Javascript", "React.js" , "Node.js" , "Express" , "Mongodb"],
@@ -33,7 +33,7 @@ funFact: {
  </div>
 
 <p align="center">
-<a href="https://github.com/adityaj0511"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://github.com/ChetanSapkale"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 <a href="[https://www.linkedin.com/in/nwaobidaniel/]([https://www.linkedin.com/in/mehul-kurhe-b55390296/]"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://instagram.com/adityaj0511"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="GitHub"/></a>
 <!--   <a href="https://discordapp.com/users/822812589624393749"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a> -->
