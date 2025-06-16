@@ -8,7 +8,7 @@
 <div>
 
 ```javascript
-const CrazyFlutterDev = {
+const FrontendDev = {
     name: "Chetan Sapkale",
     pronouns: "he" | "him",
     location: ["Dindoli, Surat"],
