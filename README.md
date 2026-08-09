@@ -13,11 +13,10 @@ const FrontendDev = {
     pronouns: "he" | "him",
     location: ["Dindoli, Surat"],
     contact: ["sapkalecheta018@gmail.com"],
-    collaborations: ["Red & White Multimedia", "Self Learner"],
-    workingOn: ["Frontend Development"],
-    learning: ["HTML", "CSS", "BOOTSTARP", "Javascript", "React.js"],
-    askMeAbout: ["My Learnings", "Frontend Development"],
-    passionate: ["A passionate Frontend Developer from India"]
+    collaborations: ["Swarrnim University", "Red & White Multimedia", "Self Learner"],
+    workingOn: ["Web Development"],
+    askMeAbout: ["My Learnings", "Web Development"],
+    passionate: ["A passionate Web Developer from India"]
 };
 ```
 
